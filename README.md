@@ -2,6 +2,9 @@
 
 
 The idea here is to use machine learning in order to predict if a student will succeed at school according to his nutrition.
+The heart of prediction will be in a program in python and the final deliverable would be a web application coded in Javascript and using React JS. These two parts are linked with a python server.
+
+![alt text](https://github.com/myriamabdi/Food-Projection/blob/master/Medium/img.png?raw=true)
 
 ## Launch Notebook
 
